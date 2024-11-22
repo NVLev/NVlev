@@ -10,7 +10,7 @@
 </a></div>   
 I like programming and learning languages, so I made LearningItalian TelegramBot just for fun. <p>
 
-  Other languages I am interesting to are: </p>
+  Other languages I am interested in are: </p>
   <ul dir="auto">
 <li>Finnish</li>
 <li>French</li>
