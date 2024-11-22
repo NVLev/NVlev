@@ -9,8 +9,8 @@
 <a id="user-content-about-me" class="anchor" aria-label="Permalink: About me:" href="#about-me">
 </a></div>   
 I like programming and learning languages, so I made LearningItalian TelegramBot just for fun. <p>
-Other languages I am interested in are: 
-  Other languages I am interesting to are: 
+
+  Other languages I am interesting to are: </p>
   <ul dir="auto">
 <li>Finnish</li>
 <li>French</li>
