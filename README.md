@@ -10,14 +10,13 @@
 </a></div>   
 <p></p>
 
-<p>I'm a Python programmer passionate about building Telegram bots and integrating APIs into my projects.  My current focus is asynchronous application development, utilizing:</p>
-<ul>
-  <li>FastAPI</li>
-  <li>PostgreSQL</li>
+<p>  </p>
+<ul style="list-style: none;">
+  <li>🚀 I'm a Python programmer passionate about building Telegram bots and integrating APIs into my projects.</li>
+  <li>⚡ My current focus is asynchronous application development, utilizing FastAPI and PostgreSQL. I'm eager to collaborate on projects that leverage these technologies.</li>
+  <li>🌍 Based in St. Petersburg, Russia, but open to remote opportunities</li>
 </ul>
-<p>I'm eager to collaborate on projects that leverage these technologies.</p>
 
-<p></p>
 <div class="markdown-heading" dir="auto">
 <h2 class="heading-element" dir="auto">Skills:</h2>
 <a id="user-content-about-me" class="anchor" aria-label="Permalink: About me:" href="#skills">
@@ -35,6 +34,21 @@
   <img src="https://img.shields.io/badge/Alembic-blue?style=for-the-badge&logo=Alembic&logoColor=white&logoSize=auto" alt="Alembic Badge"/>
   <img src="https://img.shields.io/badge/Poetry-blue?style=for-the-badge&logo=Poetry&logoColor=white&logoSize=auto" alt="Poetry"/>
 </div> 
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto">Additional Information:</h2>
+<a id="user-content-additional" class="anchor" aria-label="Permalink: Additional Information:" href="#additional">
+</a></div>   
+<ul style="list-style: none;">
+  <li> 🗣️ Language enthusiast: I enjoy learning languages, with particular focus on Finnish (Suomea), Italian (Italiano), French (Français), and Czech (čeština). Happy to contribute to language-related development projects</li>
+  <li> 📝 My repositories include documentation in multiple languages - README files in Russian and some project annotations in Finnish</li>
+</ul>
+<div class="markdown-heading" dir="auto">
+<h2 class="heading-element" dir="auto">Contact:</h2>
+<a id="user-content-about-me" class="anchor" aria-label="Permalink: About me:" href="#about-me">
+</a></div>   
+<ul style="list-style: none;">
+ <li> 📫  natalyavladislavna1@gmail.com </li>
+  </ul>
 <!--
 **NVLev/NVlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
