@@ -9,14 +9,14 @@
 <a id="user-content-about-me" class="anchor" aria-label="Permalink: About me:" href="#about-me">
 </a></div>   
 <p></p>
-<blockquote>
+
 <p>I'm a Python programmer passionate about building Telegram bots and integrating APIs into my projects.  My current focus is asynchronous application development, utilizing:</p>
 <ul>
   <li>FastAPI</li>
   <li>PostgreSQL</li>
 </ul>
 <p>I'm eager to collaborate on projects that leverage these technologies.</p>
-</blockquote>
+
 <p></p>
 <div class="markdown-heading" dir="auto">
 <h2 class="heading-element" dir="auto">Skills:</h2>
