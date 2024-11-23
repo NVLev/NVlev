@@ -8,13 +8,11 @@
 <h2 class="heading-element" dir="auto">About me:</h2>
 <a id="user-content-about-me" class="anchor" aria-label="Permalink: About me:" href="#about-me">
 </a></div>   
-I like programming and learning languages, so I made LearningItalian TelegramBot just for fun. <p>
-
-  Other languages I am interested in are: </p>
+ 
   <ul dir="auto">
-<li>Finnish</li>
-<li>French</li>
-<li>Check</li>
+<li>Python developer</li>
+<li>Telegram bots</li>
+<li>APIs</li>
 </ul>
  So, if you have any idea how can I help somebody to learn these languages as a Python developer, you are welcome.</p> 
   As you see, I am interested not only in languages. 
