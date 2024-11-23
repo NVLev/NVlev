@@ -14,8 +14,7 @@
 <li>Telegram bots</li>
 <li>APIs</li>
 </ul>
- So, if you have any idea how can I help somebody to learn these languages as a Python developer, you are welcome.</p> 
-  As you see, I am interested not only in languages. 
+ 
   <p>Right now, the subjects of my particular interest are: </p>
   <div id="badges">
   <img src="https://img.shields.io/badge/FastAPI-red?logo=FastAPI&logoColor=white&logoSize=auto" alt="FastApi Badge"/>
