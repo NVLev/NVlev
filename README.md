@@ -49,6 +49,7 @@
 </a></div>   
 <ul style="list-style: none;">
  <li> 📫  natalyavladislavna1@gmail.com </li>
+ <li>  Telegram:  @VladislavnaSpb </li>
   </ul>
 <!--
 **NVLev/NVlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
