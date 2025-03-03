@@ -14,6 +14,7 @@
 <ul style="list-style: none;">
   <li>🚀 I'm a Python programmer passionate about building Telegram bots and integrating APIs into my projects.</li>
   <li>⚡ My current focus is asynchronous application development, utilizing FastAPI and PostgreSQL. I'm eager to collaborate on projects that leverage these technologies.</li>
+  <li>⚡ I am also iterested in QA</li> 
   <li> 🌱 I’m currently learning Django. </li>
   <li>🌍 Based in St. Petersburg, Russia, but open to remote opportunities</li>
 </ul>
