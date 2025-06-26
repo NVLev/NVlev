@@ -28,6 +28,7 @@
    <img src="https://img.shields.io/badge/REST%20API-blue?style=for-the-badge&logo=REST&logoColor=white&logoSize=auto" alt="Rest Api Badge"/>
    <img src="https://img.shields.io/badge/Flask-blue?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto" alt="Flask Badge"/>
   <img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=FastAPI&logoColor=white&logoSize=auto" alt="FastApi Badge"/>
+   <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=Django&logoColor=white&logoSize=auto"alt="Django"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-blue?style=for-the-badge&logo=SQLAlchemy&logoColor=white&logoSize=auto" alt="SQLAlchemy Badge"/> 
 
   <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=auto" alt="SQLite Badge"/>
@@ -35,6 +36,7 @@
    <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Alembic-blue?style=for-the-badge&logo=Alembic&logoColor=white&logoSize=auto" alt="Alembic Badge"/>
   <img src="https://img.shields.io/badge/Poetry-blue?style=for-the-badge&logo=Poetry&logoColor=white&logoSize=auto" alt="Poetry"/>
+ 
 </div> 
 <div class="markdown-heading" dir="auto">
 <h2 class="heading-element" dir="auto">Additional Information:</h2>
